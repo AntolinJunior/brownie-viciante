@@ -13,6 +13,9 @@ header img {
 }
 
 header h1 {
+    text-shadow: 2px 10px 1px red;
     color: yellow;
     margin-top: 0;
+    margin: 30px 0px;
+    position: relative;
 }

@@ -1,15 +1,19 @@
 #section-brownies-img {
     text-align: center;
-
+   
 }
 
 .brownies-imagens {
     border-radius: 10px;
     width: 90%;
-    box-shadow: 0px 0px 20px 10px black;
+    box-shadow: 0px 0px 1000px 100px rgb(0, 0, 0);
+    border: solid 2px red;
 }
 
-#section-brownies-img h2 {
+#section-brownies-img h3 {
+    letter-spacing: 2px;
     color: rgb(255, 255, 255);
+    z-index: 999;
+    position: relative;
 
 }

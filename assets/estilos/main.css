@@ -1,0 +1,14 @@
+main {
+    
+    position: relative;
+    text-align: center;
+    line-height: 30px;
+    width: 90%;
+    margin: 0px auto;
+}
+
+main h2 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 10px 10px rgb(255, 0, 0);
+}
