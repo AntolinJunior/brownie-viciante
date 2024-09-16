@@ -1,0 +1,15 @@
+#section-brownies-img {
+    text-align: center;
+
+}
+
+.brownies-imagens {
+    border-radius: 10px;
+    width: 90%;
+    box-shadow: 0px 0px 20px 10px black;
+}
+
+#section-brownies-img h2 {
+    color: rgb(255, 255, 255);
+
+}
